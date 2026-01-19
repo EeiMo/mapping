@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
-    "download_url": "https://github.com/EeiMo/mapping/releases/latest",
-    "description": "更新内容说明..."
+    "version": "1.0.2",
+    "download_url": "https://github.com/EeiMo/mapping/releases/download/v1.0.2/MappingBatchTool_Setup.exe",
+    "description": "1. 界面优化：调整了检查更新按钮的位置。\n2. 修复已知问题。"
 }
